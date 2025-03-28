@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>dover talker</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on dover talker</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Mar 2025 13:04:39 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 28 Mar 2025 13:04:39 +0300</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;hi-there-fellow-human&#34;&gt;hi there fellow human&lt;/h1&gt;
+&lt;p&gt;&amp;#x1f44b; Hi! I’m Idan, a software developer from Israel.
+If you didn’t stop reading already—awesome, glad you&amp;rsquo;re here!&lt;/p&gt;
+&lt;p&gt;I mostly write about the lessons and insights I’ve picked up while working in tech. Over time, I’ve learned that sharing your honest thoughts on the internet is &lt;strong&gt;totally&lt;/strong&gt; a great idea and never backfires… ever.&lt;/p&gt;
+&lt;p&gt;So if you’ve made it this far—happy reading, and thanks for stopping by!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I only ride syncing boats</title>
+      <link>http://localhost:1313/posts/i-only-ride-syncing-boats/</link>
+      <pubDate>Thu, 27 Mar 2025 20:57:42 +0200</pubDate>
+      <guid>http://localhost:1313/posts/i-only-ride-syncing-boats/</guid>
+      <description>&lt;h1 id=&#34;what-does-it-mean-a-syncing-boat&#34;&gt;What does it mean a &amp;ldquo;syncing&amp;rdquo; boat&lt;/h1&gt;
+&lt;p&gt;As it sounds, you go on a boat and you sync yourself to whatever the status of the boat is.
+You might be building the boat yourself or you might hop onto one of your colleague&amp;rsquo;s boats, but you never observe carefully before or during the sail—you simply sync yourself to the boat you are on.&lt;/p&gt;
+&lt;p&gt;If it roams the high seas at tremendous speeds and you feel the wind through your hair, you sync to that.
+If the boat is calm and doesn’t move fast, you don’t open the sails or change direction to the wind—you just allow yourself to float on the sea to no end and let the tides take you.
+And of course, if the boat &lt;strong&gt;sinks&lt;/strong&gt;, you sync and you sink with the boat.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

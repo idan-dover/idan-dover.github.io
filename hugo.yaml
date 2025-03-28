@@ -1,0 +1,48 @@
+baseURL: https://idan-dover.github.io/
+languageCode: en-us
+title: dover talker
+theme: ['PaperMod']
+enableEmoji: true
+caches:
+  images:
+    dir: :cacheDir/images
+
+params:
+  # General config
+  ShowReadingTime: true
+  ShowCodeCopyButtons: true
+  showtoc: true
+  hideSummary: true
+  ShowPostNavLinks: true
+  author: ['Idan Dover']
+  # Home page
+  homeInfoParams:
+    Title: Dover Talker
+    Content: They say I talk too much — and honestly, it’s mostly me, filing complaints in my own head. Still, I’ve wrangled a few thoughts, the kind that refuse to sit quietly like well-behaved ideas. So I’m sharing them here, even if my brain’s in the corner, holding a "Shhh" sign and dramatically sighing.
+
+  socialIcons:
+    # - name: 'github'
+    #   url: 'https://github.com/idan-dover'
+    # - name: 'linkedin'
+    #   url: 'https://www.linkedin.com/in/idan-dover/'
+
+menu:
+  main:
+    - identifier: search
+      name: search
+      url: /search/
+      weight: 10
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 20
+    - identifier: archives
+      name: archives
+      url: /archives/
+      weight: 30
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
