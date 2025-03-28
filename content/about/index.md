@@ -1,8 +1,8 @@
 ---
 title: 'About'
-date: 2025-03-28T13:04:39+03:00
 searchHidden: true
 showtoc: false
+hideMeta: true
 draft: false
 ---
 
