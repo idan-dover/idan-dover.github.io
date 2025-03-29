@@ -1,6 +1,6 @@
 baseURL: https://idan-dover.github.io/
 languageCode: en-us
-title: dover.dev blog
+title: Dover's Blog
 theme: ['PaperMod']
 enableEmoji: true
 caches:
@@ -17,7 +17,7 @@ params:
   author: ['Idan Dover']
   # Home page
   homeInfoParams:
-    Title: dover.dev
+    Title: dover's Blog
     Content: They say I talk too much — and honestly, it’s mostly me, filing complaints in my own head. Still, I’ve wrangled a few thoughts, the kind that refuse to sit quietly like well-behaved ideas. So I’m sharing them here, even if my brain’s in the corner, holding a "Shhh" sign and dramatically sighing.
 
   socialIcons:
